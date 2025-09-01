@@ -6,7 +6,7 @@ public class Main {
 
         System.out.print("Enter the desired password length: ");
         int length = scanner.nextInt();
-
+        
         System.out.print("Include uppercase letters? (true/false): ");
         boolean useUpper = scanner.nextBoolean();
 
