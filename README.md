@@ -19,6 +19,3 @@ A simple and secure password generator built in Java. It allows users to generat
   - Include special symbols? (true/false): true
   - Generated Password: Attu_Dhanu@
 
-## Usage
-  - Enter the desired password length when prompted.
-  - The program will generate a secure random password.
