@@ -11,7 +11,7 @@ A simple and secure password generator built in Java. It allows users to generat
   - javac Main.java PasswordGenerator.java
   - java Main
 
-## Expected Output
+## Sample Output
   - Enter the desired password length: 6
   - Include uppercase letters? (true/false): true
   - Include lowercase letters? (true/false): true
