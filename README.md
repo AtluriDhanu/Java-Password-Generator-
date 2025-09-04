@@ -7,7 +7,7 @@ A simple and secure password generator built in Java. It allows users to generat
   - Strong randomness using 'SecureRandom'.
   - Input Validation and Error Handling.
 
-## How to run
+## Steps to run
   - javac Main.java PasswordGenerator.java
   - java Main
 
